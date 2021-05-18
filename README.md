@@ -1,5 +1,5 @@
-# Pierwsza strona
-> Moja pierwsza strona
+# First website
+> My first website
 
 
 ## Table of Contents
@@ -26,7 +26,7 @@
 
 
 ## Usage
-none
+website for online shop
 
 
 
